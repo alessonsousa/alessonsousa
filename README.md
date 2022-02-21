@@ -1,7 +1,7 @@
 
 ### Olá! tudo bem? Me chamo Alesson 👋
 - 😄 System Analyst TOTVS 
-- 🔭 Ciência de dados
+- 🔭 Data science
 - 💬 Information systems
 
 <div align="center">
