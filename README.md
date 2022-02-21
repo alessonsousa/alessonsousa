@@ -1,7 +1,7 @@
 
 ### Olá! tudo bem? Me chamo Alesson 👋
 - 😄 System Analyst TOTVS 
-- 🔭 Dev FullStack
+- 🔭 Ciência de dados
 - 💬 Information systems
 
 <div align="center">
