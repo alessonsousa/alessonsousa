@@ -1,8 +1,9 @@
 
 ### Olá! tudo bem? Me chamo Alesson 👋
-- 😄 Analista de sistemas 
-- 🔭 Ciência de dados
-- 💬 Sistemas de informação
+- 💻 Analista de sistemas at UniFAP
+- 🧪 Ciêntista de dados - Em andamento
+- 📚 Sistemas de informação - 7º semestre - IFCE
+- 🔭 Analise e desenvolvimento de sistemas - 5º semestre - UniFAP
 
 <div align="center">
   <a href="https://github.com/alessonsousa">
