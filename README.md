@@ -1,8 +1,8 @@
 
 ### Olá! tudo bem? Me chamo Alesson 👋
-- 😄 System Analyst TOTVS 
-- 🔭 Data science
-- 💬 Information systems
+- 😄 Analista de sistema 
+- 🔭 Ciência de dados
+- 💬 Sistemas de informação
 
 <div align="center">
   <a href="https://github.com/alessonsousa">
