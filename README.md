@@ -1,6 +1,6 @@
 
 ### Olá! tudo bem? Me chamo Alesson 👋
-- 😄 Analista de sistema 
+- 😄 Analista de sistemas 
 - 🔭 Ciência de dados
 - 💬 Sistemas de informação
 
