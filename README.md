@@ -9,10 +9,10 @@
   <a href="https://github.com/alessonsousa">
 </div>
   <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://www.svgrepo.com/show/303388/java-4-logo.svg">
   <img align="center" alt="React" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/2906/2906274.png">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://www.clipartmax.com/png/full/240-2409409_c-programming-icon-c-programming-language-icon.png">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
  <br>
