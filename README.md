@@ -5,6 +5,14 @@
 - 📚 Sistemas de informação - 7º semestre - IFCE
 - 🔭 Analise e desenvolvimento de sistemas - 5º semestre - UniFAP
 
+
+Contatos:
+
+- [Linkedin](https://www.linkedin.com/in/alessonsousa/)
+- [Twitter](https://twitter.com/alessonsousa00)
+- [Instagram](https://www.instagram.com/alessonsousa20/)
+- [E-mail](mailto:alessonsousaviana@gmail.com)
+
 <div align="center">
   <a href="https://github.com/alessonsousa">
 </div>
@@ -16,6 +24,7 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
  <br>
+  
   <!--
 <div align="center"> 
   <a href="https://www.instagram.com/alessonsousa20/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
