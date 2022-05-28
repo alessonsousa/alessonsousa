@@ -1,9 +1,16 @@
 
 ### Olá! tudo bem? Me chamo Alesson 👋
+
+Profissional apaixonado por tecnologia, criativo e voltado para resultados, experiência em análise de testes/QA, análise de dados e comunicações. Acredito que os dados devem orientar as decisões, mas com criatividade para apoiá-los, tudo com o objetivo de fazer o negócio ou a ideia crescer agressivamente.
+
+Algumas ferramentas com as quais tenho experiência:
+QA | Testelink | JMeter | Selenium | Jira | Azure Dev | Redmine | Scrum | Kanban | Agile Poker | TDD | BDD | Gherkin | Trello | Python | NodeJS | MySQL | SQL Server | Firebird | MongoDB | Tableau | Linux | Git | ERP TOTVS | Office avançado 
+
+No meu tempo livre, gosto de jogos digitais, esportes, viajar e passear de moto.
+
 - 💻 Analista de sistemas at UniFAP
 - 📚 Sistemas de informação - 7º semestre - IFCE
 - 🔭 Analise e desenvolvimento de sistemas - 5º semestre - UniFAP
-
 
 Contatos:
 
