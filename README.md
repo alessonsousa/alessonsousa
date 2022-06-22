@@ -8,7 +8,7 @@ QA | Testelink | JMeter | Selenium | Jira | Azure Dev | Redmine | Scrum | Kanban
 
 No meu tempo livre, gosto de jogos digitais, esportes, viajar e passear de moto.
 
-- 💻 Analista de sistemas at UniFAP
+- 💻 Analista de QA na Fácil Sistemas
 - 📚 Sistemas de informação - 7º semestre - IFCE
 - 🔭 Analise e desenvolvimento de sistemas - 5º semestre - UniFAP
 
